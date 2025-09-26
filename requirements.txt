@@ -1,0 +1,7 @@
+Flask
+opencv-python
+ultralytics
+face-recognition
+numpy
+scikit-learn
+mediapipe
